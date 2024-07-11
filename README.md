@@ -1,4 +1,4 @@
-# CSDNet-CSDGAN
+# BLNet
 
 this is the code for the paper "Robust Underwater Image Enhancement with Bilateral Learning Mechanism"
 
@@ -19,7 +19,7 @@ python test.py
 --dataroot           #The folder path of the picture you want to test
 E:/test/
 --name               #The checkpoint name
-CSDNet_UPE or CSDNet_LOL or CSDGAN or LiteCSDNet_UPE or LiteCSDNet_LOL or SLiteCSDNet_UPE or SLiteCSDNet_LOL
+BLNet
 --gpu_ids            #could be single or multiple
 0
 ```
